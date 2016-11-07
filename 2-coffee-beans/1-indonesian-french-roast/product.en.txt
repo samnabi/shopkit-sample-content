@@ -1,0 +1,69 @@
+Tab1: 
+
+----
+
+Title: Indonesian French Roast
+
+----
+
+Brand: 
+
+----
+
+Text: Dark brown, shiny with oil, burnt undertones, acidity diminished. At the end of second crack. Roast character is dominant, none of the inherent aroma or flavors of the coffee remain.
+
+----
+
+Variants: 
+
+- 
+  name: 1lb bag
+  price: "20"
+  sku: ""
+  weight: ""
+  stock: ""
+  options: Full beans,Coarse ground,Fine ground
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: 5lb bag
+  price: "49"
+  sku: ""
+  weight: ""
+  stock: ""
+  options: ""
+  description: Full beans only
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+
+----
+
+Tags: fair trade,organic
+
+----
+
+Relatedproducts: 
+
+- 
+  product: ethiopian-light-roast
+
+----
+
+Tab2: 
+
+----
+
+Noshipping: 0
+
+----
+
+Tax: 

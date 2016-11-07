@@ -1,0 +1,82 @@
+Tab1: 
+
+----
+
+Title: Apples
+
+----
+
+Brand: 
+
+----
+
+Text: Apples are an important ingredient in many desserts, such as apple pie, apple crumble, apple crisp and apple cake. They are often eaten baked or stewed, and they can also be dried and eaten or reconstituted (soaked in water, alcohol or some other liquid) for later use. When cooked, some apple varieties easily form a puree known as apple sauce. Apples are also made into apple butter and apple jelly. They are also used (cooked) in meat dishes.
+
+----
+
+Variants: 
+
+- 
+  name: Small basket (4-5 apples)
+  price: "4.00"
+  sku: ""
+  weight: "1.5"
+  stock: ""
+  options: Ida Red,Mutsu,Granny Smith,Macintosh
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: Large basket (15-20 apples)
+  price: "15"
+  sku: ""
+  weight: "5"
+  stock: ""
+  options: >
+    Ida Red,Mutsu,Granny
+    Smith,Macintosh,Northern Spy
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: Mixed bushel
+  price: "20"
+  sku: ""
+  weight: "40"
+  stock: ""
+  options: ""
+  description: Contains various varieties of apples.
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+
+----
+
+Tags: 
+
+----
+
+Relatedproducts: 
+
+----
+
+Tab2: 
+
+----
+
+Noshipping: 0
+
+----
+
+Tax: 

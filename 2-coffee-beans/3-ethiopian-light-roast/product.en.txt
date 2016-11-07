@@ -1,0 +1,80 @@
+Tab1: 
+
+----
+
+Title: Ethiopian Light Roast
+
+----
+
+Brand: Higher Grounds Trading
+
+----
+
+Text: The coffee plant, Coffea arabica, originates in Ethiopia. According to legend, the 9th-century goatherder Kaldi discovered the coffee plant after noticing the energizing effect the plant had on his flock.
+
+----
+
+Variants: 
+
+- 
+  name: 1lb bag
+  price: "18"
+  sku: ""
+  weight: ""
+  stock: ""
+  options: Full beans,Coarse ground,Fine ground
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: 2lb bag
+  price: "25"
+  sku: ""
+  weight: ""
+  stock: "0"
+  options: Full beans,Coarse ground,Fine ground
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: 5lb bag
+  price: "40"
+  sku: ""
+  weight: ""
+  stock: ""
+  options: Full beans,Coarse ground,Fine ground
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+
+----
+
+Tags: fairtrade
+
+----
+
+Relatedproducts: 
+
+----
+
+Tab2: 
+
+----
+
+Noshipping: 0
+
+----
+
+Tax: 

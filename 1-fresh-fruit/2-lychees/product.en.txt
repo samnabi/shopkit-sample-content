@@ -1,0 +1,69 @@
+Tab1: 
+
+----
+
+Title: Lychees
+
+----
+
+Brand: 
+
+----
+
+Text: The lychee is a tropical and subtropical fruit tree native to the Guangdong and Fujian provinces of China. The fresh fruit has a delicate, whitish pulp with a floral smell and a fragrant, sweet flavor.
+
+----
+
+Variants: 
+
+- 
+  name: Fresh (1 litre)
+  price: "16"
+  sku: ""
+  weight: "1"
+  stock: ""
+  options: ""
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: Canned (375ml)
+  price: "3.90"
+  sku: ""
+  weight: "0.5"
+  stock: ""
+  options: ""
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+
+----
+
+Tags: 
+
+----
+
+Relatedproducts: 
+
+- 
+  product: raspberries
+
+----
+
+Tab2: 
+
+----
+
+Noshipping: 0
+
+----
+
+Tax: 

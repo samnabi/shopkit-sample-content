@@ -1,0 +1,98 @@
+Tab1: 
+
+----
+
+Title: Raspberries
+
+----
+
+Brand: 
+
+----
+
+Text: Traditionally, raspberries were a midsummer crop, but with new technology, cultivars, and transportation, they can now be obtained year-round. Raspberries need ample sun and water for optimal development.
+
+----
+
+Variants: 
+
+- 
+  name: 1-litre basket
+  price: "5.99"
+  sku: ""
+  weight: "1"
+  stock: ""
+  options: ""
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: Half bushel
+  price: "35"
+  sku: ""
+  weight: "17"
+  stock: ""
+  options: ""
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: Bushel
+  price: "59"
+  sku: ""
+  weight: "34"
+  stock: ""
+  options: >
+    Red raspberry,Black raspberry,Purple
+    raspberry
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: Bushel (second-grade)
+  price: "42.50"
+  sku: ""
+  weight: "34"
+  stock: ""
+  options: ""
+  description: >
+    Second-grade bushels are a mix of red,
+    black, and purple raspberries
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+
+----
+
+Tags: 
+
+----
+
+Relatedproducts: 
+
+----
+
+Tab2: 
+
+----
+
+Noshipping: 0
+
+----
+
+Tax: 

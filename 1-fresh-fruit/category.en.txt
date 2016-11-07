@@ -1,0 +1,9 @@
+Title: Fresh Fruit
+
+----
+
+Text: Straight from the orchard, all our fruit is pesticide-free and grown with love.
+
+----
+
+Slider: fruit-1.jpg

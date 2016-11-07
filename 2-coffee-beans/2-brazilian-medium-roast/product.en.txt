@@ -1,0 +1,70 @@
+Tab1: 
+
+----
+
+Title: Brazilian Medium Roast
+
+----
+
+Brand: 
+
+----
+
+Text: 
+
+This product has the default placeholder image.
+
+Coffee production in Brazil is responsible for about a third of all coffee, making Brazil by far the world's largest producer.
+
+----
+
+Variants: 
+
+- 
+  name: 1lb bag
+  price: "17"
+  sku: ""
+  weight: ""
+  stock: "0"
+  options: ""
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+- 
+  name: 2lb bag
+  price: "20"
+  sku: ""
+  weight: ""
+  stock: ""
+  options: Full beans,Coarse ground,Fine ground
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+
+----
+
+Tags: organic
+
+----
+
+Relatedproducts: 
+
+----
+
+Tab2: 
+
+----
+
+Noshipping: 0
+
+----
+
+Tax: 
