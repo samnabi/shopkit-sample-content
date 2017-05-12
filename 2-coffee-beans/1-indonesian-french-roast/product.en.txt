@@ -21,10 +21,10 @@ Variants:
   price: "20"
   sku: ""
   weight: ""
-  stock: ""
+  stock: "2"
   options: Full beans,Coarse ground,Fine ground
   description: ""
-  sale_price: ""
+  sale_price: "18"
   sale_start: ""
   sale_end: ""
   sale_codes: ""
@@ -47,14 +47,11 @@ Variants:
 
 ----
 
-Tags: fair trade,organic
+Tags: organic,fair trade
 
 ----
 
 Relatedproducts: 
-
-- 
-  product: ethiopian-light-roast
 
 ----
 
@@ -62,8 +59,12 @@ Tab2:
 
 ----
 
-Noshipping: 0
+Noshipping: 1
 
 ----
 
 Tax: 
+
+----
+
+Slider: coffee-cup.jpg

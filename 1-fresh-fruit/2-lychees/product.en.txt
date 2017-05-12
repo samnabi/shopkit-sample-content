@@ -6,7 +6,7 @@ Title: Lychees
 
 ----
 
-Brand: 
+Brand: HK Trading Co.
 
 ----
 
@@ -47,14 +47,14 @@ Variants:
 
 ----
 
-Tags: 
+Tags: china
 
 ----
 
 Relatedproducts: 
 
 - 
-  product: raspberries
+  product: shop/fresh-fruit/dddraspberries
 
 ----
 
@@ -67,3 +67,7 @@ Noshipping: 0
 ----
 
 Tax: 
+
+----
+
+Slider: 

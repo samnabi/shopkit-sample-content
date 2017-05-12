@@ -6,7 +6,7 @@ Title: Raspberries
 
 ----
 
-Brand: 
+Brand: Driscoll's
 
 ----
 
@@ -21,7 +21,7 @@ Variants:
   price: "5.99"
   sku: ""
   weight: "1"
-  stock: ""
+  stock: 39
   options: ""
   description: ""
   sale_price: ""
@@ -74,16 +74,19 @@ Variants:
   sale_start: ""
   sale_end: ""
   sale_codes: ""
-  download_files: ""
+  download_files: raspberries-1.jpg
   download_days: ""
 
 ----
 
-Tags: 
+Tags: california
 
 ----
 
 Relatedproducts: 
+
+- 
+  product: shop/fresh-fruit/apples
 
 ----
 
@@ -96,3 +99,7 @@ Noshipping: 0
 ----
 
 Tax: 
+
+----
+
+Slider: raspberries-1.jpg,raspberries-2.jpg

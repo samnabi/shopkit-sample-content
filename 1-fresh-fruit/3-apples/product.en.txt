@@ -21,9 +21,9 @@ Variants:
   price: "4.00"
   sku: ""
   weight: "1.5"
-  stock: ""
+  stock: "4"
   options: Ida Red,Mutsu,Granny Smith,Macintosh
-  description: ""
+  description: Here is a description
   sale_price: ""
   sale_start: ""
   sale_end: ""
@@ -80,3 +80,7 @@ Noshipping: 0
 ----
 
 Tax: 
+
+----
+
+Slider: 

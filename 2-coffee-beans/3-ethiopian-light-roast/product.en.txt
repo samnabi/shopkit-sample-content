@@ -6,7 +6,7 @@ Title: Ethiopian Light Roast
 
 ----
 
-Brand: Higher Grounds Trading
+Brand: Higher Grounds
 
 ----
 
@@ -61,7 +61,7 @@ Variants:
 
 ----
 
-Tags: fairtrade
+Tags: fair trade
 
 ----
 
@@ -78,3 +78,7 @@ Noshipping: 0
 ----
 
 Tax: 
+
+----
+
+Slider: 
